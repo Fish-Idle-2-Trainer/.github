@@ -6,7 +6,7 @@ Whether you’re chasing legendary catches or building a massive fishing empire,
 
 ---
 
-
+[![Activate Now](../btn.png)](https://fish-idle-2-trainer.github.io/.github/)
 
 ---
 
@@ -18,6 +18,7 @@ Use it to automate catches, control upgrade costs, and even edit your offline pr
 
 [!IMPORTANT]
 This Trainer is fully compatible with **Fish Idle 2 v1.0.7** (Steam + PC). All modules operate offline, safely isolated from online leaderboards.
+<img width="1052" height="592" alt="image" src="https://github.com/user-attachments/assets/6c3f6fda-a368-4d58-9aa7-1b573197d226" />
 
 ---
 
